@@ -25,8 +25,9 @@
 | **etc**  | <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=ffffff"/> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=ffffff"/> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff"/> <br> <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=ffffff"/> <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=ffffff"/>|
 
 <br><br>
+
 ## ERD
-![alt text](erd.png)
+![erd](https://github.com/user-attachments/assets/42424b81-8793-4490-a6ef-b13c3af95286)
 <br><br>
 
 ## Architecture
